@@ -1,0 +1,45 @@
+* body {
+    background-color:rgb(231, 231, 231);
+    font-family:  Arial, sans-serif;
+   
+}
+
+.form-login {
+    width: 400px;
+    margin:auto;
+    padding-top: 100px;
+
+}
+
+.card {
+
+    box-shadow: 1px 1px 5px #313131;
+    background: rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 10px;
+  
+  
+}
+
+.itens-top {
+    text-align: center;
+}
+
+
+
+h2 {
+   
+    color: rgb(28, 98, 228);
+    font-family:  Arial, sans-serif;
+    font-size: 25px;
+    margin: 5px;
+}
+
+img {
+    width: 120px;
+}
+p {
+    height: 40px;
+    margin: 2px;
+    color: rgb(11, 81, 211);
+}
