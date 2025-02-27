@@ -29,11 +29,11 @@ Antes de executar o projeto, você precisa ter instalado em sua máquina:
 
 ## Como executar
 
-### 1. Baixar o arquivo lista-de-ramais.war localizado no diretório do projeto
+### 1. Baixar o arquivo `lista-de-ramais.war` localizado no diretório do projeto
 
 ### 2. Implantar no Apache Tomcat
 
-1. Copie o arquivo lista-de-ramais.war para o diretório `webapps` do Apache Tomcat.
+1. Copie o arquivo `lista-de-ramais.war` para o diretório `webapps` do Apache Tomcat.
 2. O Tomcat automaticamente descompactará o WAR e o colocará em execução.
 
 ### 3. Acessar a aplicação:
