@@ -8,6 +8,16 @@ Para o banco de dados, foi feita a utilização do Docker contendo a imagem do m
 
 Tem como funcionalidade o recurso de gerenciar uma lista de ramais online no modelo empresarial, contendo informações de setor, número de ramal e localização, podendo também realizar operações CRUD e impressão de relatório em PDF com base nos ramais cadastrados no banco de dados.
 
+## Apresentação
+### Página de Login
+![Página de Login](https://raw.githubusercontent.com/DaviBrazz/assets/refs/heads/main/images/Lista-de-ramais/lista-de-ramais-login.png)
+
+### Página de Configuração
+![Página de Configuração](https://raw.githubusercontent.com/DaviBrazz/assets/refs/heads/main/images/Lista-de-ramais/lista-de-ramais-home.png)
+
+### Página de Exibição
+![Página de Exibição](https://raw.githubusercontent.com/DaviBrazz/assets/refs/heads/main/images/Lista-de-ramais/lista-de-ramais-lista.png)
+
 ## Tecnologias
 
 - **Java**: Linguagem de programação para backend.
