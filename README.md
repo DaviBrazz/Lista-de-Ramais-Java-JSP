@@ -1,12 +1,10 @@
 # Sobre o projeto
 
-Este é um projeto desenvolvido utilizando Java e JSP (JavaServer Pages) para a construção de páginas dinâmicas em um servidor web.
-O projeto foi empacotado em um arquivo WAR (Web Application Archive), que pode ser facilmente implantado em servidores compatíveis com Servlet e JSP, como o **Apache Tomcat**.
-Para o banco de dados, foi feita a utilização do Docker contendo a imagem do mysql e um cliente para acesso sendo o phpMyAdmin.
+Este projeto foi desenvolvido em Java com JSP (JavaServer Pages) para a criação de páginas dinâmicas em servidores web. Empacotado como um arquivo WAR (Web Application Archive), pode ser implantado em servidores compatíveis com Servlet e JSP, como o Apache Tomcat. O banco de dados é gerido através de um contêiner Docker utilizando a imagem do MySQL, com acesso facilitado via phpMyAdmin.
 
 ## Descrição
 
-Tem como funcionalidade o recurso de gerenciar uma lista de ramais online no modelo empresarial, contendo informações de setor, número de ramal e localização, podendo também realizar operações CRUD e impressão de relatório em PDF com base nos ramais cadastrados no banco de dados.
+A aplicação permite o gerenciamento de uma lista de ramais online no contexto empresarial, incluindo informações sobre setor, número de ramal e localização. Também oferece recursos para editar os dados e gerar relatórios em PDF com base nos ramais cadastrados no banco de dados.
 
 ## Apresentação
 ### Página de Login
